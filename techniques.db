@@ -1,0 +1,33 @@
+[DancingGrenade]
+Type=AOE
+Cost=0
+Desc=
+TP=
+Hits=4
+BasePower=50
+
+[DeadlyFlourish]
+Type=Single
+Cost=0
+Desc=throws a grenade and bounces it on %enemy four times.
+TP=40
+Hits=4
+BasePower=50
+StatusType=Stun
+
+[CaptiveAudience]
+Type=Single
+Cost=0
+Desc=throws out a trap under %enemy $+ .
+TP=50
+Hits=1
+BasePower=20
+StatusType=Stun
+
+[CurtainCall]
+Type=Single
+Cost=0
+Desc=pulls out his sniper rifle, takes aim at %enemy $+ , and fires four shots.
+TP=60
+Hits=4
+BasePower=50

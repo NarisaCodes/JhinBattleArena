@@ -1,0 +1,8 @@
+[Whisper]
+Cost=0
+Type=gun
+Info=Jhin's gun.
+Abilities=DancingGrenade.DeadlyFlourish.CaptiveAudience.CurtainCall
+Hits=4
+BasePower=55
+Upgrade=0

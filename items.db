@@ -1,0 +1,7 @@
+[Bouquet]
+Type=summon
+Cost=
+SellPrice=
+Desc=A bouquet of roses.
+Summon=Jhin
+SummonName=Jhin
